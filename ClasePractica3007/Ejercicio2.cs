@@ -25,6 +25,7 @@ namespace ClasePractica3007
 
             switch(opcion)
             {
+                // uso case
                 case 1:
                     Console.WriteLine(a + b);
                     break;
